@@ -1,0 +1,6 @@
+/opt/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/ninja -G Ninja /home/dheeru/CG/Assignment1
+-- Using X11 for window creation
+-- Found Freetype: /usr/lib/libfreetype.so (found version "2.11.1") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dheeru/CG/Assignment1/cmake-build-debug
